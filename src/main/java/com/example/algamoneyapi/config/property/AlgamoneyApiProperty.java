@@ -1,3 +1,4 @@
+
 package com.example.algamoneyapi.config.property;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
